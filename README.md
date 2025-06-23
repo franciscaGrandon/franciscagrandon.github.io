@@ -1,0 +1,2 @@
+# finky
+Personal finances app
