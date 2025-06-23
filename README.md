@@ -1,2 +1,2 @@
-# finky
-Personal finances app
+# Finky
+[Personal finances app](./finky_auth.html)
